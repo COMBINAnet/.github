@@ -23,9 +23,9 @@ Our network aims to:
 
 #### Create a platform for coordinated research and action to:
 
-- Advance scientific understanding of invasions dynamics across scales
+- Advance scientific understanding of marine invasion dynamics across scales
 - Inform management and policy decisions for effective biosecurity
 
 ## Our history
 
-The concept for COMBINA grew from an initial workshop held in the Galápagos Islands in June 2019 with participants across 13 countries in the Americas, including scientists, policy-makers, and resource managers. The workshop underscored strong demand and need for coordination, shared resources, information exchange, and training across countries. The COMBINA network was announced at the [2023 Our Ocean Conference](http://ouroceanpanama2023.gob.pa/) in Panamá and formally launched at a [second workshop](https://stri.si.edu/story/combina), held in Panamá in March 2024 with over 70 participants from 12 different countries.
+The concept for COMBINA grew from an initial workshop held in the Galápagos Islands in June 2019 with participants across 10 countries in the Americas, including scientists, policy-makers, and resource managers. The workshop underscored strong demand and need for coordination, shared resources, information exchange, and training across countries. The COMBINA network was announced at the [2023 Our Ocean Conference](http://ouroceanpanama2023.gob.pa/) in Panamá and formally launched at a [second workshop](https://stri.si.edu/story/combina), held in Panamá in March 2024 with over 70 participants from 12 different countries.
